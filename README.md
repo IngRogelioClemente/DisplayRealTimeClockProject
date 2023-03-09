@@ -10,4 +10,4 @@ The project implements the main characteristics like it's powerful memory, Real 
 ## Hardware
 * [STM32 Nucleo-64 development board with STM32F401RE MCU](https://www.st.com/en/evaluation-tools/nucleo-f401re.html)
 
-![img](https://www.st.com/bin/ecommerce/api/image.PF260000.en.feature-description-include-personalized-no-cpn-medium.jpg)
+![img](./img.png)
